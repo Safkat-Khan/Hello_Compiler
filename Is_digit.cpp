@@ -15,10 +15,10 @@ int main()
         }
     }
     if(number){
-        cout<<" Is Digit "<<endl;
+        cout<<"Is Digit "<<endl;
     }
     else{
-        cout<<" Not Digit "<<endl;
+        cout<<"Not Digit "<<endl;
     }
 
     return 0;
